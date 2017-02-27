@@ -1,5 +1,4 @@
 var express = require('express');
-var fs = require('fs');
 var csv = require('csv');
 
 var students = [
